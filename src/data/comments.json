@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "content": "This is the first comment.",
+        "votes": 5,
+        "timestamp": "2024-06-16T10:00:00Z",
+        "replies": [
+            {
+                "id": 2,
+                "content": "This is the reply to first comment.",
+                "votes": 5,
+                "timestamp": "2024-06-16T11:00:00Z",
+                "replies": []
+            },
+            {
+                "id": 3,
+                "content": "This is the reply to first comment.",
+                "votes": 5,
+                "timestamp": "2024-06-16T11:00:00Z",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": "This is the second comment.",
+        "votes": 5,
+        "timestamp": "2024-06-16T12:00:00Z",
+        "replies": []
+    }
+]
